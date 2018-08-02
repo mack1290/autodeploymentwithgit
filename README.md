@@ -1,2 +1,2 @@
 # autodeploymentwithgit
-Auto Deployment With git Repo
+Auto Deployment With git Hooks
